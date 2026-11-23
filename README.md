@@ -24,4 +24,4 @@ This change displays wind speed in miles per hour instead of kilometers per hour
 
 ## Live site
 
-Coming soon! I will add my GitHub Pages link after publishing.
+https://tammyalbindev.github.io/truck-weather/
